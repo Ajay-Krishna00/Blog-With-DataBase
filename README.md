@@ -48,11 +48,11 @@ This project uses `bcrypt` and `sqlite3`. You can install `bcrypt` via `pip`:
 
 
 ## Future Enhancements
-Implementing password recovery via email.
-Adding the ability to comment on blog posts.
-Expanding the UI to a web interface using Flask or Django.
-Adding timestamps to blog posts.
-Integrating with a cloud database for scalability.
+- Implementing password recovery via email.
+- Adding the ability to comment on blog posts.
+- Expanding the UI to a web interface using Flask or Django.
+- Adding timestamps to blog posts.
+- Integrating with a cloud database for scalability.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
